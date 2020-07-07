@@ -1,4 +1,6 @@
-# Demo Auction Application
+# Car Auction Application
+
+This sample back-end describes in detail the APIs and the model that will be required for a basic car auctioning system
 
 ### APIs
 
